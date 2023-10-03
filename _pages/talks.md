@@ -5,7 +5,7 @@ permalink: /talks/
 author_profile: true
 ---
 
-### *Racial Bias in Property Taxation in Atlanta: The Difficulty in Reversing Structural Racism* 
+### *Racial Bias in Property Taxation in Atlanta: The Difficulty in Reversing Structural Discrimination* 
 * American Economic Association (AEA/ASSA) Annual Meeting (Poster Presentation), 2024 <br> 
 * Southern Economic Association (SEA) Annual Meeting, 2023 <br> 
 * Mid-Continent Regional Science Association (MCRSA) Conference, 2023 
